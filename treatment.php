@@ -1222,17 +1222,7 @@ function getcanvasimage()
             
             } );
         }
-     function getwebcamimages()   
-     {
-         if( picturepath1 !== null & picturepath1.length > 0)
-         {
-             document.getElementById('diagimage').value = picturepath1;
-         }
-          if(  picturepath2 !== null & picturepath2.length > 0)
-          {
-              document.getElementById('observimage').value = picturepath2;
-          }
-     }
+     
     </script>
 
     
